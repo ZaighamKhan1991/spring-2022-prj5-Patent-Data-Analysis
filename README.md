@@ -1,5 +1,4 @@
-# Project 2: Shiny App Development
-
+# Project 5: Abandoned Patent Analysis of USPTO
 ### [Project Description](doc/project2_desc.md)
 
 ![screenshot](doc/figs/USPTO-logo-RGB-stacked-1200px.png)
