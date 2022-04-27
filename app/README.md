@@ -1,7 +1,4 @@
-# Project 2: Shiny App Development
+# Project 5: Abandoned Patent Analysis of USPTO
 ### App folder
 
-The App directory contains the app files for the Shiny App (i.e., ui.R and server.R).
- - ui.R and server.R are two key components for the Shiny App 
-
-To launch app locally, download the repository, open [ui.R](./ui.R) and [server.R](./server.R) in RStudio, and hit Run App.
+The App directory contains the ipynb file for running the program. Just download this file to start using it.
