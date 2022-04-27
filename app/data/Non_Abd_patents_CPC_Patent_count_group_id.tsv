@@ -1,0 +1,669 @@
+group_id	Group Name	Patent Number
+A01B	"Soil Working In Agriculture Or Forestry; Parts, Details, Or Accessories Of Agricultural Machines Or Implements, In General "	3764
+A01C	Planting; Sowing; Fertilising 	3335
+A01D	Harvesting; Mowing	5877
+A01F	Processing Of Harvested Produce; Hay Or Straw Presses; Devices For Storing Agricultural Or Horticultural Produce 	1905
+A01G	"Horticulture; Cultivation Of Vegetables, Flowers, Rice, Fruit, Vines, Hops Or Seaweed; Forestry; Watering "	6101
+A01H	New Plants Or Processes For Obtaining Them; Plant Reproduction By Tissue Culture Techniques	14027
+A01J	Manufacture Of Dairy Products 	815
+A01K	"Animal Husbandry; Care Of Birds, Fishes, Insects; Fishing; Rearing Or Breeding Animals, Not Otherwise Provided For; New Breeds Of Animals"	12561
+A01L	Shoeing Of Animals	103
+A01M	"Catching, Trapping Or Scaring Of Animals "	3422
+A01N	Preservation Of Bodies Of Humans Or Animals Or Plants Or Parts Thereof; Biocides	12913
+A01P	"Biocidal, Pest Repellant, Pest Attractant Or Plant Growth Regulatory Activity Of Chemical Compounds Or Preparations"	2
+A21B	Bakers' Ovens; Machines Or Equipment For Baking 	612
+A21C	Machines Or Equipment For Making Or Processing Doughs; Handling Baked Articles Made From Dough	794
+A21D	Treatment	1254
+A22B	Slaughtering	549
+A22C	"Processing Meat, Poultry, Or Fish "	1735
+A23B	Preserving	1432
+A23C	Dairy Products	1693
+A23D	Edible Oils Or Fats	1608
+A23F	"Coffee; Tea; Their Substitutes; Manufacture, Preparation, Or Infusion Thereof "	938
+A23G	Cocoa; Cocoa Products	2396
+A23J	Protein Compositions For Foodstuffs; Working-Up Proteins For Foodstuffs; Phosphatide Compositions For Foodstuffs 	776
+A23K	Fodder	3407
+A23L	"Foods, Foodstuffs, Or Non-Alcoholic Beverages, Not Covered By Subclasses A23B - A23J; Their Preparation Or Treatment"	13785
+A23N	"Machines Or Apparatus For Treating Harvested Fruit, Vegetables Or Flower Bulbs In Bulk, Not Otherwise Provided For; Peeling Vegetables Or Fruit In Bulk; Apparatus For Preparing Animal Feeding- Stuffs "	669
+A23P	"Shaping Or Working Of Foodstuffs, Not Fully Covered By A Single Other Subclass"	1857
+A23V	"Indexing Scheme Relating To Foods, Foodstuffs Or Non-Alcoholic Beverages"	7296
+A23Y	Indexing Scheme Relating To Lactic Or Propionic Acid Bacteria Used In Foodstuffs Or Food Preparation	519
+A24B	Manufacture Or Preparation Of Tobacco For Smoking Or Chewing; Tobacco; Snuff	1178
+A24C	Machines For Making Cigars Or Cigarettes	526
+A24D	Cigars; Cigarettes; Tobacco Smoke Filters; Mouthpieces For Cigars Or Cigarettes; Manufacture Of Tobacco Smoke Filters Or Mouthpieces	1157
+A24F	Smokers' Requisites; Match Boxes; Simulated Smoking Devices 	2868
+A41B	Shirts; Underwear; Baby Linen; Handkerchiefs	1195
+A41C	Corsets; Brassieres	850
+A41D	Outerwear; Protective Garments; Accessories	6206
+A41F	Garment Fastenings; Suspenders	875
+A41G	Artificial Flowers; Wigs; Masks; Feathers	429
+A41H	Appliances Or Methods For Making Clothes	355
+A42B	Hats; Head Coverings 	2801
+A42C	Manufacturing Or Trimming Hats Or Other Head Coverings	210
+A43B	Characteristic Features Of Footwear; Parts Of Footwear	5999
+A43C	Fastenings Or Attachments Of Footwear; Laces In General	1648
+A43D	"Machines, Tools, Equipment Or Methods For Manufacturing Or Repairing Footwear"	886
+A44B	"Buttons, Pins, Buckles, Slide Fasteners, Or The Like "	2812
+A44C	Jewellery; Bracelets; Other Personal Adornments; Coins	1809
+A44D	"Indexing Scheme Relating To Buttons, Pins, Buckles Or Slide Fasteners, And To Jewellery, Bracelets Or Other Personal Adornments"	351
+A45B	Walking Sticks 	996
+A45C	Purses; Luggage; Hand Carried Bags	4455
+A45D	Hairdressing Or Shaving Equipment; Manicuring Or Other Cosmetic Treatment 	5150
+A45F	Travelling Or Camp Equipment: Sacks Or Packs Carried On The Body	3799
+A46B	Brushes 	3702
+A46D	Manufacture Of Brushes	548
+A47B	Tables; Desks; Office Furniture; Cabinets; Drawers; General Details Of Furniture 	8524
+A47C	Chairs 	8279
+A47D	Furniture Specially Adapted For Children 	1566
+A47F	"Special Furniture, Fittings, Or Accessories For Shops, Storehouses, Bars, Restaurants Or The Like; Paying Counters"	4435
+A47G	Household Or Table Equipment 	6733
+A47H	Furnishings For Windows Or Doors 	451
+A47J	Kitchen Equipment; Coffee Mills; Spice Mills; Apparatus For Making Beverages	8705
+A47K	Sanitary Equipment Not Otherwise Provided For 	4594
+A47L	Domestic Washing Or Cleaning 	9297
+A61B	Diagnosis; Surgery; Identification 	146782
+A61C	Dentistry; Apparatus Or Methods For Oral Or Dental Hygiene 	8830
+A61D	"Veterinary Instruments, Implements, Tools, Or Methods"	909
+A61F	"Filters Implantable Into Blood Vessels; Prostheses; Devices Providing Patency To, Or Preventing Collapsing Of, Tubular Structures Of The Body"	55641
+A61G	"Transport, Personal Conveyances, Or Accommodation Specially Adapted For Patients Or Disabled Persons "	7428
+A61H	Physical Therapy Apparatus	7274
+A61J	Containers Specially Adapted For Medical Or Pharmaceutical Purposes; Devices Or Methods Specially Adapted For Bringing Pharmaceutical Products Into Particular Physical Or Administering Forms; Devices For Administering Food Or Medicines Orally; Baby Comforters; Devices For Receiving Spittle	6491
+A61K	"Preparations For Medical, Dental, Or Toilet Purposes "	130011
+A61L	"Methods Or Apparatus For Sterilising Materials Or Objects In General; Disinfection, Sterilisation, Or Deodorisation Of Air; Chemical Aspects Of Bandages, Dressings, Absorbent Pads, Or Surgical Articles; Materials For Bandages, Dressings, Absorbent Pads, Or Surgical Articles "	24604
+A61M	"Devices For Introducing Media Into, Or Onto, The Body "	54401
+A61N	Electrotherapy; Magnetotherapy; Radiation Therapy; Ultrasound Therapy 	31677
+A61P	Specific Therapeutic Activity Of Chemical Compounds Or Medicinal Preparations	115138
+A61Q	Specific Use Of Cosmetics Or Similar Toilet Preparations	15309
+A62B	"Devices, Apparatus Or Methods For Life-Saving "	3013
+A62C	Fire-Fighting 	2736
+A62D	Chemical Means For Extinguishing Fires Or For Combating Or Protecting Against Harmful Chemical Agents; Chemical Materials For Use In Breathing Apparatus	743
+A63B	"Apparatus For Physical Training, Gymnastics, Swimming, Climbing, Or Fencing; Ball Games; Training Equipment "	23001
+A63C	"Skates; Skis; Roller Skates; Design Or Layout Of Courts, Rinks Or The Like "	1874
+A63D	Bowling Games	208
+A63F	"Card, Board, Or Roulette Games; Indoor Games Using Small Moving Playing Bodies; Video Games; Games Not Otherwise Provided For"	17719
+A63G	Merry-Go-Rounds; Swings; Rocking-Horses; Chutes; Switchbacks; Similar Devices For Public Amusement	1316
+A63H	Toys	4064
+A63J	"Devices For Theatres, Circuses, Or The Like; Conjuring Appliances Or The Like"	595
+A63K	Racing; Riding Sports; Equipment Or Accessories Therefor 	126
+B01B	Boiling; Boiling Apparatus {; Evaporation; Evaporation Apparatus}	167
+B01D	Separation 	41847
+B01F	Mixing	9805
+B01J	Chemical Or Physical Processes	34035
+B01L	Chemical Or Physical Laboratory Apparatus For General Use 	13518
+B02B	Preparing Grain For Milling; Refining Granular Fruit To Commercial Products By Working The Surface 	82
+B02C	"Crushing, Pulverising, Or Disintegrating In General; Milling Grain "	3290
+B03B	Separating Solid Materials Using Liquids Or Using Pneumatic Tables Or Jigs 	628
+B03C	Magnetic Or Electrostatic Separation Of Solid Materials From Solid Materials Or Fluids; Separation By High-Voltage Electric Fields 	2193
+B03D	Flotation; Differential Sedimentation 	551
+B04B	Centrifuges 	1363
+B04C	Apparatus Using Free Vortex Flow	898
+B05B	Spraying Apparatus; Atomising Apparatus; Nozzles 	12341
+B05C	"Apparatus For Applying Liquids Or Other Fluent Materials To Surfaces, In General "	4857
+B05D	"Processes For Applying Liquids Or Other Fluent Materials To Surfaces, In General "	8992
+B06B	"Methods Or Apparatus For Generating Or Transmitting Mechanical Vibrations Of Infrasonic, Sonic, Or Ultrasonic Frequency, {E.G.} For Performing Mechanical Work In General "	3016
+B07B	"Seperating Solids From Solids By Sieving, Screening, Or Sifting Or By Using Gas Currents; Other Separating By Dry Methods Applicable To Bulk Material"	1520
+B07C	"Postal Sorting; Sorting Individual Articles, Or Bulk Material Fit To Be Sorted Piece-Meal"	2036
+B08B	Cleaning In General; Prevention Of Fouling In General 	8290
+B09B	Disposal Of Solid Waste	1078
+B09C	Reclamation Of Contaminated Soil 	822
+B21B	Rolling Of Metal 	1861
+B21C	"Manufacture Of Metal Sheets, Wire, Rods, Tubes Or Profiles, Otherwise Than By Rolling; Auxiliary Operations Used In Connection With Metal-Working Without Essentially Removing Material"	1849
+B21D	"Working Or Processing Of Sheet Metal Or Metal Tubes, Rods Or Profiles Without Essentially Removing Material; Punching Metal "	7002
+B21F	Working Or Processing Of Metal Wire 	777
+B21G	"Making Needles, Pins Or Nails Of Metal"	102
+B21H	Making Particular Metal Objects By Rolling	391
+B21J	Forging; Hammering; Pressing Metal; Riveting; Forge Furnaces 	1864
+B21K	Making Forged Or Pressed Metal Products	1390
+B21L	Making Metal Chains 	92
+B22C	Foundry Moulding 	1752
+B22D	Casting Of Metals; Casting Of Other Substances By The Same Processes Or Devices 	4272
+B22F	Working Metallic Powder; Manufacture Of Articles From Metallic Powder; Making Metallic Powder 	9099
+B23B	Turning; Boring 	5617
+B23C	Milling 	2350
+B23D	"Planing; Slotting; Shearing; Broaching; Sawing; Filing; Scraping; Like Operations For Working Metal By Removing Material, Not Otherwise Provided For "	3323
+B23F	Making Gears Or Toothed Racks 	495
+B23G	"Thread Cutting; Working Of Screws, Bolt Heads, Or Nuts, In Conjunction Therewith "	296
+B23H	Working Of Metal By The Action Of A High Concentration Of Electric Current On A Workpiece Using An Electrode Which Takes The Place Of A Tool; Such Working Combined With Other Forms Of Working Of Metal 	1026
+B23K	Soldering Or Unsoldering; Welding; Cladding Or Plating By Soldering Or Welding; Cutting By Applying Heat Locally	19594
+B23P	Other Working Of Metal; Combined Operations; Universal Machine Tools 	7723
+B23Q	"Details, Components, Or Accessories For Machine Tools"	5725
+B24B	"Machines, Devices, Or Processes For Grinding Or Polishing "	7817
+B24C	Abrasive Or Related Blasting With Particulate Material	1160
+B24D	"Tools For Grinding, Buffing, Or Sharpening "	2574
+B25B	"Tools Or Bench Devices Not Otherwise Provided For, For Fastening, Connecting, Disengaging Or Holding"	7279
+B25C	Hand-Held Nailing Or Stapling Tools; Manually Operated Portable Stapling Tools 	1345
+B25D	Percussive Tools {	1190
+B25F	Combination Or Multi-Purpose Tools Not Otherwise Provided For; Details Or Components Of Portable Power-Driven Tools Not Particularly Related To The Operations Performed And Not Otherwise Provided For {	3000
+B25G	Handles For Hand Implements 	1607
+B25H	Workshop Equipment	2020
+B25J	Manipulators; Chambers Provided With Manipulation Devices 	12408
+B26B	Hand-Held Cutting Tools Not Otherwise Provided For 	3073
+B26D	"Cutting; Details Common To Machines For Perforating, Punching, Cutting-Out, Stamping-Out Or Severing "	4066
+B26F	Perforating; Punching; Cutting-Out; Stamping-Out; Severing By Means Other Than Cutting 	1802
+B27B	Saws For Wood Or Similar Material; Components Or Accessories Therefor 	1598
+B27C	"Planing, Drilling, Milling, Turning Or Universal Machines For Wood Or Similar Material "	357
+B27D	Working Veneer Or Plywood 	180
+B27F	Dovetailed Work; Tenons; Slotting Machines For Wood Or Similar Material; Nailing Or Stapling Machines 	401
+B27G	Accessory Machines Or Apparatus For Working Wood Or Similar Materials; Tools For Working Wood Or Similar Materials 	631
+B27H	Bending Wood Or Similar Material; Cooperage; Making Wheels From Wood Or Similar Material	25
+B27J	"Mechanical Working Of Cane, Cork, Or Similar Materials"	28
+B27K	"Processes, Apparatus Or Selection Of Substances For Impregnating, Staining, Dyeing, Bleaching Of Wood Or Similar Materials, Or Treating Of Wood Or Similar Materials With Permeant Liquids, Not Otherwise Provided For "	409
+B27L	Removing Bark Or Vestiges Of Branches 	295
+B27M	Working Of Wood Not Provided For In Subclasses B27B - B27L; Manufacture Of Specific Wooden Articles	312
+B27N	"Manufacture By Dry Processes Of Articles, With Or Without Organic Binding Agents, Made From Particles Or Fibres Consisting Of Wood Or Other Lignocellulosic Or Like Organic Material "	676
+B28B	"Shaping Clay Or Other Ceramic Compositions, Slag, Or Mixtures Containing Cementitious Material"	2887
+B28C	Preparing Clay; Producing Mixtures Containing Clay Or Cementitious Material	470
+B28D	Working Stone Or Stone-Like Materials	1651
+B29B	Preparation Or Pretreatment Of The Material To Be Shaped; Making Granules Or Preforms; Recovery Of Plastics Or Other Constituents Of Waste Material Containing Plastics	4882
+B29C	"Shaping Or Joining Of Plastics; Shaping Of Material In A Plastic State, Not Otherwise Provided For; After-Treatment Of The Shaped Products"	45700
+B29D	Producing Particular Articles From Plastics Or From Substances In A Plastic State 	9774
+B29K	"Indexing Scheme Associated With Subclasses B29B, B29C Or B29D, Relating To Moulding Materials Or To Materials For {Moulds, } Reinforcements, Fillers Or Preformed Parts"	18617
+B29L	"Indexing Scheme Associated With Subclass B29C, Relating To Particular Articles"	20321
+B30B	Presses In General 	2311
+B31B	"Making Containers Of Paper, Cardboard Or Material Worked In A Manner Analogous To Paper "	1989
+B31C	Making Wound Articles	77
+B31D	"Making Articles Of Paper, Cardboard Or Material Worked In A Manner Analogous To Paper, Not Provided For In Subclasses B31B Or B31C "	799
+B31F	"Mechanical Working Or Deformation Of Paper, Cardboard Or Material Worked In A Manner Analogous To Paper "	1019
+B32B	"Layered Products, I.E. Products Built-Up Of Strata Of Flat Or Non-Flat"	32472
+B33Y	"Additive Manufacturing, I.E. Manufacturing Of Three-Dimensional [3-D] Objects By Additive Deposition, Additive Agglomeration Or Additive Layering"	10913
+B41B	"Machines Or Accessories For Making, Setting, Or Distributing Type; Type; Photographic Or Photoelectric Composing Devices "	13
+B41C	Processes For The Manufacture Or Reproduction Of Printing Surfaces 	995
+B41D	Apparatus For The Mechanical Reproduction Of Printing Surfaces For Stereotype Printing; Shaping Elastic Or Deformable Material To Form Printing Surfaces 	25
+B41F	Printing Machines Or Presses 	3060
+B41G	"Apparatus For Bronze Printing, Line Printing, Or For Bordering Or Edging Sheets Or Like Articles; Auxiliary For Perforating In Conjunction With Printing "	15
+B41J	"Typewriters; Selective Printing Mechanisms, {E.G. Ink-Jet Printers, Thermal Printers}, I.E. Mechanisms Printing Otherwise Than From A Forme; Correction Of Typographical Errors "	32885
+B41K	Stamps; Stamping Or Numbering Apparatus Or Devices 	235
+B41L	"Apparatus Or Devices For Manifolding, Duplicating, Or Printing For Office Or Other Commercial Purposes; Addressing Machines Or Like Series-Printing Machines "	171
+B41M	"Printing, Duplicating, Marking, Or Copying Processes; Colour Printing, "	6750
+B41N	Printing Plates Or Foils 	702
+B41P	"Indexing Scheme Relating To Printing, Lining Machines, Typewriters, And To Stamps"	760
+B42B	"Permanently Attaching Together Sheets, Quires Or Signatures Or Permanently Attaching Objects Thereto "	389
+B42C	Bookbinding 	896
+B42D	Books; Book Covers; Loose Leaves; Printed Matter Characterised By Identification Or Security Features; Printed Matter Of Special Format Or Style Not Otherwise Provided For; Devices For Use Therewith And Not Otherwise Provided For; Movable-Strip Writing Or Reading Apparatus	3132
+B42F	Sheets Temporarily Attached Together; Filing Appliances; File Cards; Indexing 	720
+B42P	"Indexing Scheme Relating To Books, Filing Appliances Or The Like"	305
+B43K	Implements For Writing Or Drawing 	1058
+B43L	Articles For Writing Or Drawing Upon; {Writing Or Drawing Aids;} Accessories For Writing Or Drawing 	557
+B43M	Bureau Accessories Not Otherwise Provided For 	345
+B44B	"Machines, Apparatus Or Tools For Artistic Work"	310
+B44C	Producing Decorative Effects 	2061
+B44D	"Painting Or Artistic Drawing, Not Otherwise Provided For; Preserving Paintings; Surface Treatment To Obtain Special Artistic Surface Effects Or Finishes "	695
+B44F	Special Designs Or Pictures	774
+B60B	Vehicle Wheels 	4029
+B60C	Vehicle Tyres 	8363
+B60D	Vehicle Connections 	1834
+B60F	Vehicles For Use Both On Rail And On Road; Amphibious Or Like Vehicles; Convertible Vehicles 	404
+B60G	Vehicle Suspension Arrangements 	6133
+B60H	"Arrangements Or Adaptations Of Heating, Cooling, Ventilating, Or Other Air-Treating Devices Specially For Passenger Or Goods Spaces Of Vehicles"	5611
+B60J	"Windows, Windscreens, Non-Fixed Roofs, Doors, Or Similar Devices For Vehicles; Removable External Protective Coverings Specially Adapted For Vehicles "	6382
+B60K	"Arrangement Or Mounting Of Propulsion Units Or Of Transmissions In Vehicles; Arrangement Or Mounting Of Plural Diverse Prime-Movers In Vehicles; Auxiliary Drives For Vehicles; Instrumentation Or Dashboards For Vehicles; Arrangements In Connection With Cooling, Air Intake, Gas Exhaust Or Fuel Supply Of Propulsion Units In Vehicles"	27038
+B60L	Propulsion Of Electrically-Propelled Vehicles 	20862
+B60M	"Power Supply Lines, And Devices Along Rails, For Electrically- Propelled Vehicles "	473
+B60N	Seats Specially Adapted For Vehicles; Vehicle Passenger Accommodation Not Otherwise Provided For	12072
+B60P	"Vehicles Adapted For Load Transportation Or To Transport, To Carry, Or To Comprise Special Loads Or Objects "	5805
+B60Q	"Arrangement Of Signalling Or Lighting Devices, The Mounting Or Supporting Thereof Or Circuits Therefor, For Vehicles In General"	10346
+B60R	"Vehicles, Vehicle Fittings, Or Vehicle Parts, Not Otherwise Provided For"	36102
+B60S	"Servicing, Cleaning, Repairing, Supporting, Lifting, Or Manoeuvring Of Vehicles, Not Otherwise Provided For"	3582
+B60T	"Vehicle Brake Control Systems Or Parts Thereof; Brake Control Systems Or Parts Thereof, In General "	11112
+B60V	Air-Cushion Vehicles	90
+B60W	Conjoint Control Of Vehicle Sub-Units Of Different Type Or Different Function; Control Systems Specially Adapted For Hybrid Vehicles; Road Vehicle Drive Control Systems For Purposes Not Related To The Control Of A Particular Sub-Unit	24355
+B60Y	Indexing Scheme Relating To Aspects Cross-Cutting Vehicle Technology	9524
+B61B	Railway Systems; Equipment Therefor Not Otherwise Provided For 	888
+B61C	Locomotives; Motor Railcars 	697
+B61D	Body Details Or Kinds Of Railway Vehicles 	1564
+B61F	Rail Vehicle Suspensions	753
+B61G	Couplings; Draught And Buffing Appliances 	353
+B61H	Brakes Or Other Retarding Apparatus Peculiar To Rail Vehicles; Arrangements Or Dispositions Of Brakes Or Other Retarding Apparatus In Rail Vehicles 	406
+B61J	Shifting Or Shunting Of Rail Vehicles 	34
+B61K	Other Auxiliary Equipment For Railways 	451
+B61L	Guiding Railway Traffic; Ensuring The Safety Of Railway Traffic 	2182
+B62B	Hand-Propelled Vehicles	3957
+B62C	Vehicles Drawn By Animals	6
+B62D	Motor Vehicles; Trailers 	23893
+B62H	Cycle Stands; Supports Or Holders For Parking Or Storing Cycles; Appliances Preventing Or Indicating Unauthorized Use Or Theft Of Cycles; Locks Integral With Cycles; Devices For Learning To Ride Cycles	644
+B62J	Cycle Saddles Or Seats; Auxiliary Devices Or Accessories Specially Adapted To Cycles And Not Otherwise Provided For	3591
+B62K	"Cycles; Cycle Frames; Cycle Steering Devices; Rider-Operated Terminal Controls Specially Adapted For Cycles; Cycle Axle Suspensions; Cycle Side-Cars, Forecars, Or The Like"	5476
+B62L	Brakes Specially Adapted For Cycles {	753
+B62M	Rider Propulsion Of Wheeled Vehicles Or Sledges; Powered Propulsion Of Sledges Or {Single-Track} Cycles; Transmissions Specially Adapted For Such Vehicles 	3714
+B63B	Ships Or Other Waterborne Vessels; Equipment For Shipping  	7795
+B63C	"Launching, Hauling-Out, Or Dry-Docking Of Vessels; Life-Saving In Water; Equipment For Dwelling Or Working Under Water; Means For Salvaging Or Searching For Underwater Objects "	1749
+B63G	Offensive Or Defensive Arrangements On Vessels; Mine-Laying; Mine-Sweeping; Submarines; Aircraft Carriers 	945
+B63H	Marine Propulsion Or Steering 	4128
+B63J	Auxiliaries On Vessels	568
+B64B	Lighter-Than Air Aircraft	483
+B64C	Aeroplanes; Helicopters 	16534
+B64D	Equipment For Fitting In Or To Aircraft; Flying Suits; Parachutes; Arrangements Or Mounting Of Power Plants Or Propulsion Transmissions In Aircraft	16714
+B64F	"Ground Or Aircraft-Carrier-Deck Installations Specially Adapted For Use In Connection With Aircraft; Designing, Manufacturing, Assembling, Cleaning, Maintaining Or Repairing Aircraft, Not Otherwise Provided For; Handling, Transporting, Testing Or Inspecting Aircraft Components, Not Otherwise Provided For"	3642
+B64G	Cosmonautics; Vehicles Or Equipment Therefor 	2643
+B65B	"Machines, Apparatus Or Devices For, Or Methods Of, Packaging Articles Or Materials; Unpacking "	10331
+B65C	"Labelling Or Tagging Machines, Apparatus, Or Processes "	1137
+B65D	Containers For Storage Or Transport Of Articles Or Materials	32170
+B65F	Gathering Or Removal Of Domestic Or Like Refuse 	1666
+B65G	Transport Or Storage Devices	15104
+B65H	Handling Thin Or Filamentary Material	15952
+B66B	Elevators; Escalators Or Moving Walkways 	3404
+B66C	"Cranes; Load-Engaging Elements Or Devices For Cranes, Capstans, Winches, Or Tackles "	3434
+B66D	Capstans; Winches; Tackles	1471
+B66F	"Hoisting, Lifting, Hauling Or Pushing, Not Otherwise Provided For"	3534
+B67B	"Applying Closure Members To Bottles Jars, Or Similar Containers; Opening Closed Containers "	728
+B67C	"Cleaning, Filling With Liquids Or Semiliquids, Or Emptying, Of Bottles, Jars, Cans, Casks, Barrels, Or Similar Containers, Not Otherwise Provided For; Funnels"	1018
+B67D	"Dispensing, Delivering Or Transferring Liquids, Not Otherwise Provided For "	4188
+B68B	Harness; Devices Used In Connection Therewith; Whips Or The Like	76
+B68C	Saddles; Stirrups	116
+B68F	"Making Articles From Leather, Canvas, Or The Like"	6
+B68G	"Methods, Equipment, Or Machines For Use In Upholstering; Upholstery Not Otherwise Provided For"	330
+B81B	Microstructural Devices Or Systems	6816
+B81C	Processes Or Apparatus Specially Adapted For The Manufacture Or Treatment Of Microstructural Devices Or Systems 	6427
+B82B	"Nanostructures Formed By Manipulation Of Individual Atoms, Molecules, Or Limited Collections Of Atoms Or Molecules As Discrete Units; Manufacture Or Treatment Thereof"	436
+B82Y	Specific Uses Or Applications Of Nanostructures; Measurement Or Analysis Of Nanostructures; Manufacture Or Treatment Of Nanostructures	28525
+C01B	Non-Metallic Elements; Compounds Thereof; {Metalloids Or Compounds Thereof Not Covered By Subclass C01C}	17352
+C01C	Ammonia; Cyanogen; Compounds Thereof 	612
+C01D	"Compounds Of Alkali Metals, I.E. Lithium, Sodium, Potassium, Rubidium, Caesium, Or Francium "	716
+C01F	"Compounds Of The Metals Beryllium, Magnesium, Aluminium, Calcium, Strontium, Barium, Radium, Thorium, Or Of The Rare-Earth Metals "	1935
+C01G	Compounds Containing Metals Not Covered By Subclasses C01D Or C01F 	5226
+C01P	Indexing Scheme Relating To Structural And Physical Aspects Of Solid Inorganic Compounds	9325
+C02F	"Treatment Of Water, Waste Water, Sewage, Or Sludge "	14259
+C03B	"Manufacture, Shaping, Or Supplementary Processes"	4854
+C03C	"Chemical Composition Of Glasses, Glazes, Or Vitreous Enamels; Surface Treatment Of Glass; Surface Treatment Of Fibres Or Filaments Made From Glass, Minerals Or Slags; Joining Glass To Glass Or Other Materials"	8534
+C04B	"Lime, Magnesia; Slag; Cements; Compositions Thereof"	15330
+C05B	Phosphatic Fertilisers	518
+C05C	Nitrogenous Fertilisers	647
+C05D	"Inorganic Fertilisers Not Covered By Subclasses C05B, C05C; Fertilisers Producing Carbon Dioxide"	621
+C05F	"Organic Fertilisers Not Covered By Subclasses C05B, C05C"	1133
+C05G	Mixtures Of Fertilisers Covered Individually By Different Subclasses Of Class C05; Mixtures Of One Or More Fertilisers With Materials Not Having A Specific Fertilising Activity	1115
+C06B	Explosives Or Thermic Compositions 	749
+C06C	Detonating Or Priming Devices; Fuses 	250
+C06D	Means For Generating Smoke Or Mist; Gas-Attack Compositions; Generation Of Gas For Blasting Or Propulsion 	239
+C06F	Matches; Manufacture Of Matches	5
+C07B	General Methods Of Organic Chemistry; Apparatus Therefor 	5917
+C07C	Acyclic Or Carbocyclic Compounds	34563
+C07D	Heterocyclic Compounds	54126
+C07F	"Acyclic, Carbocyclic Or Heterocyclic Compounds Containing Elements Other Than Carbon, Hydrogen, Halogen, Oxygen, Nitrogen, Sulfur, Selenium Or Tellurium "	12990
+C07G	Compounds Of Unknown Constitution	250
+C07H	Sugars; Derivatives Thereof; Nucleosides; Nucleotides; Nucleic Acids 	6877
+C07J	Steroids 	1325
+C07K	Peptides 	47484
+C08B	Polysaccharides; Derivatives Thereof 	3329
+C08C	Treatment Or Chemical Modification Of Rubbers	1199
+C08F	Macromolecular Compounds Obtained By Reactions Only Involving Carbon-To-Carbon Unsaturated Bonds	22337
+C08G	Macromolecular Compounds Obtained Otherwise Than By Reactions Only Involving Unsaturated Carbon-To-Carbon Bonds	27750
+C08H	Derivatives Of Natural Macromolecular Compounds 	909
+C08J	"Working-Up; General Processes Of Compounding; After-Treatment Not Covered By Subclasses C08B, C08C, C08F, C08G "	17396
+C08K	Use Of Inorganic Or Non-Macromolecular Organic Substances As Compounding Ingredients 	24016
+C08L	Compositions Of Macromolecular Compounds 	33039
+C09B	Organic Dyes Or Closely-Related Compounds For Producing Dyes {	4323
+C09C	"Treatment Of Inorganic Materials, Other Than Fibrous Fillers, To Enhance Their Pigmenting Or Filling Properties "	2916
+C09D	Coating Compositions	24918
+C09F	Natural Resins; French Polish; Drying-Oils; Driers 	96
+C09G	Polishing Compositions Other Than French Polish; Ski Waxes	1320
+C09H	Preparation Of Glue Or Gelatine	7
+C09J	Adhesives; Non-Mechanical Aspects Of Adhesive Processes In General; Adhesive Processes Not Provided For Elsewhere; Use Of Material As Adhesives 	9470
+C09K	"Materials For Miscellaneous Applications, Not Provided For Elsewhere"	26099
+C10B	"Destructive Distillation Of Carbonageous Materials For Production Of Gas, Coke, Tar, Or Similar Materials "	1320
+C10C	"Working-Up Pitch, Asphalt, Bitumen, Tar; Pyroligneous Acid "	244
+C10F	Drying Or Working-Up Of Peat	15
+C10G	Cracking Hydrocarbon Oils; Production Of Liquid Hydrocarbon Mixtures	10276
+C10H	Production Of Acetylene By Wet Methods {	6
+C10J	"Production Of Producer Gas, Water-Gas, Synthesis Gas From Solid Carbonaceous Material, Or Mixtures Containing These Gases "	1571
+C10K	Purifying Or Modifying The Chemical Composition Of Combustible Gases Containing Carbon Monoxide	1030
+C10L	Fuels Not Otherwise Provided For 	4967
+C10M	Lubricating Compositions 	4475
+C10N	Indexing Scheme Associated With Subclass C10M Relating To Lubricating Compositions	4003
+C11B	Producing 	2959
+C11C	"Fatty Acids From Fats, Oils Or Waxes; Candles; Fats, Oils Or Fatty Acids By Chemical Modification Of Fats, Oils, Or Fatty Acids Obtained Therefrom"	1303
+C11D	Detergent Compositions 	7658
+C12C	Beer; Preparation Of Beer By Fermentation 	414
+C12F	Recovery Of By-Products Of Fermented Solutions 	126
+C12G	Wine; Preparation Thereof; Alcoholic Beverages 	348
+C12H	"Pasteurisation, Sterilisation, Preservation, Purification, Clarification Or Ageing Of Alcoholic Beverages; Methods For Altering The Alcohol Content Of Fermented Solutions Or Alcoholic Beverages "	362
+C12J	Vinegar; Preparation Or Purification Thereof	25
+C12L	Pitching Or Depitching Machines; Cellar Tools 	9
+C12M	"Apparatus For Enzymology Or Microbiology; {Apparatus For Culturing Microorganisms For Producing Biomass, For Growing Cells Or For Obtaining Fermentation Or Metabolic Products, I.E. Bioreactors Or Fermenters}"	5582
+C12N	"Microorganisms Or Enzymes; Compositions Thereof; Propagating, Preserving, Or Maintaining Microorganisms; Mutation Or Genetic Engineering; Culture Media "	53443
+C12P	Fermentation Or Enzyme-Using Processes To Synthesise A Desired Chemical Compound Or Composition Or To Separate Optical Isomers From A Racemic Mixture {	12807
+C12Q	"Measuring Or Testing Processes Involving Enzymes, Nucleic Acids Or Microorganisms "	27132
+C12R	Processes Using Microorganisms	2062
+C12Y	Enzymes	11754
+C13B	Production Of Sucrose; Apparatus Specially Adapted Therefor 	224
+C13K	"Saccharides, Other Than Sucrose, Obtained From Natural Sources Or By Hydrolysis Of Naturally Occurring Di-, Oligo- Or Polysaccharides "	638
+C14B	"Mechanical Treatment Or Processing Of Skins, Hides Or Leather In General; Pelt-Shearing Machines; Intestine-Splitting Machines "	96
+C14C	"Chemical Treatment Of Hides, Skins Or Leather"	160
+C21B	Manufacture Of Iron Or Steel 	758
+C21C	Processing Of Pig-Iron	801
+C21D	"Modifying The Physical Structure Of Ferrous Metals; General Devices For Heat Treatment Of Ferrous Or Non-Ferrous Metals Or Alloys; Making Metal Malleable By Decarburisation, Tempering Or Other Treatments "	5486
+C22B	Production And Refining Of Metals 	3041
+C22C	Alloys 	12990
+C22F	Changing The Physical Structure Of Non-Ferrous Metals And Non-Ferrous Alloys 	2757
+C23C	"Coating Metallic Material; Coating Material With Metallic Material; Surface Treatment Of Metallic Material By Diffusion Into The Surface, By Chemical Conversion Or Substitution; Coating By Vacuum Evaporation, By Sputtering, By Ion Implantation Or By Chemical Vapour Deposition, In General "	28237
+C23D	"Enamelling Of, Or Applying A Vitreous Layer To, Metals "	65
+C23F	Non-Mechanical Removal Of Metallic Material From Surface 	3022
+C23G	Cleaning Or Degreasing Of Metallic Material By Chemical Methods Other Than Electrolysis 	787
+C25B	Electrolytic Or Electrophoretic Processes For The Production Of Compounds Or Non-Metals; Apparatus Therefor 	2866
+C25C	"Processes For The Electrolytic Production, Recovery Or Refining Of Metals; Apparatus Therefor"	720
+C25D	Processes For The Electrolytic Or Electrophoretic Production Of Coatings; Electroforming; Apparatus Therefor	5658
+C25F	Processes For The Electrolytic Removal Of Materials From Objects; Apparatus Therefor	682
+C30B	Single-Crystal-Growth 	6713
+C40B	Combinatorial Chemistry; Libraries	2335
+D01B	Mechanical Treatment Of Natural Fibrous Or Filamentary Material To Obtain Fibres Of Filaments	65
+D01C	Chemical Treatment Of Natural Filamentary Or Fibrous Material To Obtain Filaments Or Fibres For Spinning; Carbonising Rags To Recover Animal Fibres	45
+D01D	"Mechanical Methods Or Apparatus In The Manufacture Of Artificial Filaments, Threads, Fibres, Bristles Or Ribbons"	2234
+D01F	"Chemical Features In The Manufacture Of Artificial Filaments, Threads, Fibres, Bristles Or Ribbons; Apparatus Specially Adapted For The Manufacture Of Carbon Filaments"	3615
+D01G	Preliminary Treatment Of Fibres	303
+D01H	Spinning Or Twisting 	325
+D02G	"Crimping Or Curling Fibres, Filaments, Threads, Or Yarns; Yarns Or Threads"	1330
+D02H	"Warping, Beaming Or Leasing"	39
+D02J	"Finishing Or Dressing Of Filaments, Yarns, Threads, Cords, Ropes Or The Like "	322
+D03C	Shedding Mechanisms; Pattern Cards Or Chains; Punching Of Cards; Designing Patterns	136
+D03D	Woven Fabrics; Methods Of Weaving; Looms	2031
+D03J	Auxiliary Weaving Apparatus; Weavers' Tools; Shuttles	65
+D04B	Knitting	1794
+D04C	"Braiding Or Manufacture Of Lace, Including Bobbin-Net Or Carbonised Lace; Braiding Machines; Braid; Lace "	554
+D04D	"Trimmings; Ribbons, Tapes Or Bands, Not Otherwise Provided For "	79
+D04G	Making Nets By Knotting Of Filamentary Material; Making Knotted Carpets Or Tapestries; Knotting Not Otherwise Provided For 	33
+D04H	Making Textile Fabrics	3363
+D05B	Sewing 	1347
+D05C	Embroidering; Tufting 	659
+D05D	"Indexing Scheme Associated With Subclasses D05B And D05C, Relating To Sewing, Embroidering And Tufting"	239
+D06B	"Treating Textile Materials Using Liquids, Gases Or Vapours "	477
+D06C	"Finishing, Dressing, Tentering Or Stretching Textile Fabrics"	395
+D06F	"Laundering, Drying, Ironing, Pressing Or Folding Textile Articles"	5293
+D06G	"Mechanical Or Pressure Cleaning Of Carpets, Rugs, Sacks, Hides, Or Other Skin Or Textile Articles Or Fabrics; Turning Inside-Out Flexible Tubular Or Other Hollow Articles"	15
+D06H	"Marking, Inspecting, Seaming Or Severing Textile Materials "	220
+D06J	"Pleating, Kilting Or Goffering Textile Fabrics Or Wearing Apparel "	10
+D06L	"Dry-Cleaning, Washing Or Bleaching Fibres, Filaments, Threads, Yarns, Fabrics, Feathers Or Made-Up Fibrous Goods; Bleaching Leather Or Furs"	266
+D06M	"Treatment, Not Provided For Elsewhere In Class D06, Of Fibres, Threads, Yarns, Fabrics, Feathers Or Fibrous Goods Made From Such Materials"	2677
+D06N	"Wall, Floor, Or Like Covering Materials"	1126
+D06P	"Dyeing Or Printing Textiles; Dyeing Leather, Furs Or Solid Macromolecular Substances In Any Form"	1083
+D06Q	Decorating Textiles 	193
+D07B	Ropes Or Cables In General 	895
+D10B	"Indexing Scheme Associated With Sublasses Of Section D, Relating To Textiles"	3705
+D21B	Fibrous Raw Materials Or Their Mechanical Treatment	418
+D21C	Production Of Cellulose By Removing Non-Cellulose Substances From Cellulose-Containing Materials; Regeneration Of Pulping Liquors; Apparatus Therefor	1440
+D21D	Treatment Of The Materials Before Passing To The Paper-Making Machine	322
+D21F	Paper-Making Machines; Methods Of Producing Paper Thereon	1585
+D21G	Calenders; Accessories For Paper-Making Machines 	459
+D21H	Pulp Compositions; Preparation Thereof Not Covered By Subclasses D21C Or D21D; Impregnating Or Coating Of Paper; Treatment Of Finished Paper Not Covered By Class B31 Or Subclass D21G; Paper Not Otherwise Provided For	4397
+D21J	Fibreboard; Manufacture Of Articles From Cellulosic Fibrous Suspensions Or From Papier-Mache 	180
+E01B	Permanent Way; Permanent-Way Tools; Machines For Making Railways Of All Kinds 	1108
+E01C	"Construction Of, Or Surfaces For, Roads, Sports Grounds, Or The Like; Machines Or Auxiliary Tools For Construction Or Repair "	3876
+E01D	"Construction Of Bridges, {Elevated Roadways} Or Viaducts; Assembly Of Bridges "	689
+E01F	"Additional Work, Such As Equipping Roads Or The Construction Of Platforms, Helicopter Landing Stages, Signs, Snow Fences, Or The Like"	1729
+E01H	Street Cleaning; Cleaning Of Permanent Ways; Cleaning Beaches; Dispersing {Or Preventing} Fog In General {Cleaning Street Or Railway Furniture Or Tunnel Walls} 	1423
+E02B	Hydraulic Engineering 	2260
+E02C	Ship-Lifting Devices Or Mechanisms	9
+E02D	Foundations; Excavations; Embankments 	3879
+E02F	Dredging; Soil-Shifting 	7040
+E03B	"Installations Or Methods For Obtaining, Collecting, Or Distributing Water "	1385
+E03C	Domestic Plumbing Installations For Fresh Water Or Waste Water 	3019
+E03D	Water-Closets Or Urinals With Flushing Devices; Flushing Valves Therefor	1872
+E03F	Sewers; Cesspools	1904
+E04B	General Building Constructions; Walls	9424
+E04C	Structural Elements; Building Materials 	4904
+E04D	Roof Coverings; Sky-Lights; Gutters; Roof-Working Tools 	3445
+E04F	Finishing Work On Buildings	6530
+E04G	"Scaffolding; Forms; Shuttering; Building Implements Or Other Building Aids, Or Their Use; Handling Building Materials On The Site; Repairing, Breaking-Up Or Other Work On Existing Buildings"	3278
+E04H	"Buildings Or Like Structures For Particular Purposes; Swimming Or Splash Baths Or Pools; Masts; Fencing; Tents Or Canopies, In General "	7690
+E05B	Locks; Accessories Therefor; Handcuffs	9040
+E05C	"Bolts Or Fastening Devices For Wings, Specially For Doors Or Windows "	3089
+E05D	"Hinges Or Other Suspension Devices For Doors, Windows Or Wings "	4488
+E05F	"Devices For Moving Wings Into Open Or Closed Position; Checks For Wings; Wing Fittings Not Otherwise Provided For, Concerned With The Functioning Of The Wing"	5093
+E05G	Safes Or Strong-Rooms For Valuables; Bank Protection Devices; Safety Transaction Partitions 	436
+E05Y	"Indexing Scheme Relating To Hinges Or Other Suspension Devices For Doors, Windows Or Wings And Devices For Moving Wings Into Open Or Closed Position, Checks For Wings And Wing Fittings Not Otherwise Provided For, Concerned With The Functioning Of The Wing"	7279
+E06B	"Fixed Or Movable Closures For Openings In Buildings, Vehicles, Fences Or Like Enclosures In General"	7825
+E06C	Ladders 	969
+E21B	Earth Drilling	37632
+E21C	Mining Or Quarrying	1075
+E21D	Shafts; Tunnels; Galleries; Large Underground Chambers 	746
+E21F	"Safety Devices, Transport, Filling-Up, Rescue, Ventilation, Or Draining In Or Of Mines Or Tunnels"	521
+F01B	"Machines Or Engines, In General Or Of Positive-Displacement Type"	942
+F01C	Rotary-Piston Or Oscillating-Piston Machines Or Engines 	1747
+F01D	Non-Positive Displacement Machines Or Engines	22027
+F01K	Steam Engine Plants; Steam Accumulators; Engine Plants Not Otherwise Provided For; Engines Using Special Working Fluids Or Cycles 	2822
+F01L	Cyclically Operating Valves For Machines Or Engines 	5558
+F01M	Lubricating Of Machines Or Engines In General; Lubricating Internal Combustion Engines; Crankcase Ventilating	3407
+F01N	Gas-Flow Silencers Or Exhaust Apparatus For Machines Or Engines In General; Gas-Flow Silencers Or Exhaust Apparatus For Internal Combustion Engines 	12826
+F01P	Cooling Of Machines Or Engines In General; Cooling Of Internal-Combustion Engines 	3783
+F02B	Internal-Combustion Piston Engines; Combustion Engines In General 	12888
+F02C	Gas-Turbine Plants; Air Intakes For Jet-Propulsion Plants; Controlling Fuel Supply In Air-Breathing Jet-Propulsion Plants 	12594
+F02D	Controlling Combustion Engines 	20426
+F02F	"Cylinders, Pistons Or Casings, For Combustion Engines; Arrangements Of Sealings In Combustion Engines "	2858
+F02G	Hot Gas Or Combustion-Product Positive-Displacement Engine Plants 	891
+F02K	Jet-Propulsion Plants 	4448
+F02M	Supplying Combustion Engines In General With Combustible Mixtures Or Constituents Thereof	16196
+F02N	Starting Of Combustion Engines 	3794
+F02P	"Ignition, Other Than Compression Ignition, For Internal-Combustion Engines; Testing Of Ignition Timing In Compression-Ignition Engines "	3196
+F03B	Machines Or Engines For Liquids 	1853
+F03C	Positive-Displacement Engines Driven By Liquids 	378
+F03D	Wind Motors	6802
+F03G	"Spring, Weight, Inertia Or Like Motors; Mechanical-Power Producing Devices Or Mechanisms, Not Otherwise Provided For Or Using Energy Sources Not Otherwise Provided For "	2032
+F03H	"Producing A Reactive Propulsive Thrust, Not Otherwise Provided For "	282
+F04B	Positive-Displacement Machines For Liquids; Pumps 	10957
+F04C	"Rotary-Piston, Or Oscillating-Piston, Positive-Displacement Machines For Liquids "	6103
+F04D	Non-Positive-Displacement Pumps 	14083
+F04F	Pumping Of Fluid By Direct Contact Of Another Fluid Or By Using Inertia Of Fluid To Be Pumped {	860
+F05B	"Indexing Scheme Relating To Wind, Spring, Weight, Inertia Or Like Motors, To Machines Or Engines For Liquids Covered By Subclasses F03B, F03D And F03G"	7346
+F05C	"Indexing Scheme Relating To Materials, Material Properties Or Material Characteristics For Machines, Engines Or Pumps Other Than Non-Positive-Displacement Machines Or Engines"	1064
+F05D	"Indexing Scheme For Aspects Relating To Non-Positive-Displacement Machines Or Engines, Gas-Turbines Or Jet-Propulsion Plants"	23501
+F15B	Systems Acting By Means Of Fluids In General; Fluid-Pressure Actuators	6490
+F15C	Fluid-Circuit Elements Predominantly Used For Computing Or Control Purposes 	274
+F15D	"Fluid Dynamics, I.E. Methods Or Means For Influencing The Flow Of Gases Or Liquids "	854
+F16B	Devices For Fastening Or Securing Constructional Elements Or Machine Parts Together	14821
+F16C	Shafts; Flexible Shafts; Elements Or Crankshaft Mechanisms; Rotary Bodies Other Than Gearing Elements; Bearings	14536
+F16D	Couplings For Transmitting Rotation; Clutches; Brakes	14675
+F16F	Springs; Shock-Absorbers; Means For Damping Vibration	9878
+F16G	"Belts, Cables, Or Ropes, Predominantly Used For Driving Purposes; Chains; Fittings Predominantly Used Therefor"	2085
+F16H	Gearing	26974
+F16J	Pistons {	6941
+F16K	Valves; Taps; Cocks; Actuating-Floats; Devices For Venting Or Aerating {	17052
+F16L	"Pipes; Joints Or Fittings For Pipes; Supports For Pipes, Cables Or Protective Tubing; Means For Thermal Insulation In General"	17017
+F16M	"Frames, Casings, Or Beds Of Engines Or Other Machines Or Apparatus Not Specific To An Engine, Machine, Or Apparatus Provided For Elsewhere; Stands Or Supports"	8097
+F16N	Lubricating	1438
+F16P	Safety Devices In General; {Safety Devices For Presses}	800
+F16S	"Constructional Elements In General; Structures Built-Up From Such Elements, In General"	47
+F16T	Steam Traps Or Like Apparatus For Draining-Off Liquids From Enclosures Predominantly Containing Gases Or Vapours	141
+F17B	Gas-Holders Of Variable Capacity 	4
+F17C	"Vessels For Containing Or Storing Compressed, Liquefied Or Solidified Gases; Fixed-Capacity Gas-Holders; Filling Vessels With, Or Discharging From Vessels, Compressed, Liquefied, Or Solidified Gases "	3399
+F17D	Pipe-Line Systems; Pipe-Lines 	1279
+F21H	Incandescent Mantles; Other Incandescent Bodies Heated By Combustion	1
+F21K	Non-Electric Light Sources Using Luminescence; Light Sources Using Electrochemiluminescence; Light Sources Using Charges Of Combustible Material; Light Sources Using Semiconductor Devices As Light-Generating Elements; Light Sources Not Otherwise Provided For	7146
+F21L	"Lighting Devices Or Systems Thereof, Being Portable Or Specially Adapted For Transportation"	1658
+F21S	Non-Portable Lighting Devices; Systems Thereof; Vehicle Lighting Devices Specially Adapted For Vehicle Exteriors	13562
+F21V	"Functional Features Or Details Of Lighting Devices Or Systems Thereof; Structural Combinations Of Lighting Devices With Other Articles, Not Otherwise Provided For"	22508
+F21W	"Indexing Scheme Associated With Subclasses F21K, F21L, F21S And F21V, Relating To Uses Or Applications Of Lighting Devices Or Systems"	6149
+F21Y	"Indexing Scheme Associated With Subclasses F21K, F21L, F21S And F21V, Relating To The Form Or The Kind Of The Light Sources Or Of The Colour Of The Light Emitted"	16722
+F22B	Methods Of Steam Generation; Steam Boilers 	1923
+F22D	"Preheating, Or Accumulating Preheated, Feed-Water For Steam Generation; Feed-Water Supply For Steam Generation; Controlling Water Level For Steam Generation; Auxiliary Devices For Promoting Water Circulation Within Steam Boilers"	198
+F22G	Superheating Of Steam 	179
+F23B	Methods Or Apparatus For Combustion Using Only Solid Fuel 	185
+F23C	Methods Or Apparatus For Combustion Using Fluid Fuel Or Solid Fuel Suspended In  {A Carrier Gas Or} Air  	1895
+F23D	Burners 	3055
+F23G	Cremation Furnaces; Consuming Waste Products By Combustion	1177
+F23H	Grates 	52
+F23J	Removal Or Treatment Of Combustion Products Or Combustion Residues; Flues  	1325
+F23K	Feeding Fuel To Combustion Apparatus 	815
+F23L	Supplying Air Or Non-Combustible Liquids Or Gases To Combustion Apparatus In General  	1057
+F23M	"Casings, Linings, Walls Or Doors Specially Adapted For Combustion Chambers"	737
+F23N	Regulating Or Controlling Combustion 	1881
+F23Q	Ignition 	663
+F23R	Generating Combustion Products Of High Pressure Or High Velocity	3993
+F24B	Domestic Stoves Or Ranges For Solid Fuels	410
+F24C	"Other Domestic Stoves Or Ranges; Details Of Domestic Stoves Or Ranges, Of General Application "	3321
+F24D	Domestic- Or Space-Heating Systems	1987
+F24F	Air-Conditioning; Air-Humidification; Ventilation; Use Of Air Currents For Screening 	10931
+F24H	Fluid Heaters	2685
+F24J	Production Or Use Of Heat Not Otherwise Provided For 	5
+F24S	Solar Heat Collectors; Solar Heat Systems 	3394
+F24T	Geothermal Collectors; Geothermal Systems	327
+F24V	"Collection, Production Or Use Of Heat Not Otherwise Provided For"	265
+F25B	"Refrigeration Machines, Plants Or Systems; Combined Heating And Refrigeration Systems; Heat-Pump Systems "	10341
+F25C	"Producing, Working Or Handling Ice"	1708
+F25D	Refrigerators; Cold Rooms; Ice-Boxes; Cooling Or Freezing Apparatus Not Covered By Any Other Subclass 	7817
+F25J	"Liquefaction, Solidification Or Separation Of Gases Or Gaseous {Or Liquefied Gaseous} Mixtures By Pressure And Cold Treatment {Or By Bringing Them Into The Supercritical State "	1559
+F26B	Drying Solid Materials Or Objects By Removing Liquid Therefrom 	2765
+F27B	"Furnaces, Kilns, Ovens, Or Retorts In General; Open Sintering Or Like Apparatus"	2164
+F27D	"Details Or Accessories Of Furnaces, Kilns, Ovens, Or Retorts, In So Far As They Are Of Kinds Occurring In More Than One Kind Of Furnace "	2610
+F27M	"Indexing Scheme Relating To Aspects Of The Charges Or Furnaces, Kilns, Ovens Or Retorts"	42
+F28B	Steam Or Vapour Condensers 	369
+F28C	"Heat-Exchange Apparatus, Not Provided For In Another Subclass, In Which The Heat-Exchange Media Come Into Direct Contact Without Chemical Interaction "	468
+F28D	"Heat-Exchange Apparatus, Not Provided For In Another Subclass, In Which The Heat-Exchange Media Do Not Come Into Direct Contact "	8691
+F28F	"Details Of Heat-Exchange And Heat-Transfer Apparatus, Of General Application "	8873
+F28G	Cleaning Of Internal Or External Surfaces Of Heat-Exchange Or Heat-Transfer Conduits	453
+F41A	Functional Features Or Details Common To Both Smallarms And Ordnance	5468
+F41B	Weapons For Projecting Missiles Without Use Of Explosive Or Combustible Propellant Charge; Weapons Not Otherwise Provided For 	2391
+F41C	Smallarms	2451
+F41F	Apparatus For Launching Projectiles Or Missiles From Barrels	395
+F41G	Weapon Sights; Aiming 	3494
+F41H	Armour; Armoured Turrets; Armoured Or Armed Vehicles; Means Of Attack Or Defence	3435
+F41J	Targets; Target Ranges; Bullet Catchers {	764
+F42B	Explosive Charges	4896
+F42C	Ammunition Fuzes 	974
+F42D	Blasting 	852
+G01B	"Measuring Length, Thickness Or Similar Linear Dimensions; Measuring Angles; Measuring Areas; Measuring Irregularities Of Surfaces Or Contours {"	19480
+G01C	"Measuring Distances, Levels Or Bearings; Surveying; Navigation; Gyroscopic Instruments; Photogrammetry Or Videogrammetry "	28079
+G01D	Measuring Not Specially Adapted For A Specific Variable; Arrangements For Measuring Two Or More Variables Not Covered In A Single Other Subclass; Tariff Metering Apparatus; Measuring Or Testing Not Otherwise Provided For	13282
+G01F	"Measuring Volume, Volume Flow, Mass Flow Or Liquid Level; Metering By Volume"	11563
+G01G	Weighing 	3152
+G01H	"Measurement Of Mechanical Vibrations Or Ultrasonic, Sonic Or Infrasonic Waves"	2630
+G01J	"Measurement Of Intensity, Velocity, Spectral Content, Polarisation, Phase Or Pulse Characteristics Of Infra-Red, Visible Or Ultra-Violet Light; Colorimetry; Radiation Pyrometry "	15050
+G01K	Measuring Temperature; Measuring Quantity Of Heat; Thermally-Sensitive Elements Not Otherwise Provided For 	7158
+G01L	"Measuring Force, Stress, Torque, Work, Mechanical Power, Mechanical Efficiency, Or Fluid Pressure "	11202
+G01M	"Testing Static Or Dynamic Balance Of Machines Or Structures; Testing Of Structures Or Apparatus, Not Otherwise Provided For"	11977
+G01N	Investigating Or Analysing Materials By Determining Their Chemical Or Physical Properties 	106093
+G01P	"Measuring Linear Or Angular Speed, Acceleration, Deceleration, Or Shock; Indicating Presence, Absence, Or Direction, Of Movement "	7184
+G01Q	Scanning-Probe Techniques Or Apparatus; Applications Of Scanning-Probe Techniques	1346
+G01R	Measuring Electric Variables; Measuring Magnetic Variables 	49724
+G01S	Radio Direction-Finding; Radio Navigation; Determining Distance Or Velocity By Use Of Radio Waves; Locating Or Presence-Detecting By Use Of The Reflection Or Reradiation Of Radio Waves; Analogous Arrangements Using Other Waves	40525
+G01T	Measurement Of Nuclear Or X-Radiation 	6367
+G01V	Geophysics; Gravitational Measurements; Detecting Masses Or Objects 	13872
+G01W	Meteorology 	1236
+G02B	"Optical Elements, Systems, Or Apparatus "	103901
+G02C	Spectacles; Sunglasses Or Goggles Insofar As They Have The Same Features As Spectacles; Contact Lenses 	5675
+G02F	"Devices Or Arrangements, The Optical Operation Of Which Is Modified By Changing The Optical Properties Of The Medium Of The Devices Or Arrangements For The Control Of The Intensity, Colour, Phase, Polarisation Or Direction Of Light"	51879
+G03B	Apparatus Or Arrangements For Taking Photographs Or For Projecting Or Viewing Them; Apparatus Or Arrangements Employing Analogous Techniques Using Waves Other Than Optical Waves; Accessories Therefor 	20651
+G03C	Photosensitive Materials For Photographic Purposes 	647
+G03D	Apparatus For Processing Exposed Photographic Materials 	144
+G03F	Photomechanical Production Of Textured Or Patterned Surfaces	26846
+G03G	Electrography; Electrophotography; Magnetography 	35970
+G03H	Holographic Processes Or Apparatus 	2322
+G04B	"Mechanically-Driven Clocks Or Watches; Mechanical Parts Of Clocks Or Watches In General; Time Pieces Using The Position Of The Sun, Moon Or Stars "	2153
+G04C	Electromechanical Clocks Or Watches 	970
+G04D	Apparatus Or Tools Specially Designed For Making Or Maintaining Clocks Or Watches	200
+G04F	Time-Interval Measuring 	1307
+G04G	Electronic Time-Pieces	2128
+G04R	Radio-Controlled Time-Pieces	666
+G05B	Control Or Regulating Systems In General; Functional Elements Of Such Systems; Monitoring Or Testing Arrangements For Such Systems Or Elements 	34491
+G05D	Systems For Controlling Or Regulating Non-Electric Variables 	23726
+G05F	Systems For Regulating Electric Or Magnetic Variables 	8728
+G05G	Control Devices Or Systems Insofar As Characterised By Mechanical Features Only 	2564
+G06C	Digital Computers In Which All The Computation Is Effected Mechanically 	29
+G06D	Digital Fluid-Pressure Computing Devices	7
+G06E	Optical Computing Devices; {Computing Devices Using Other Radiations With Similar Properties} 	126
+G06F	Electric Digital Data Processing 	467019
+G06G	Analogue Computers 	734
+G06J	Hybrid Computing Arrangements 	68
+G06K	Recognition Of Data; Presentation Of Data; Record Carriers; Handling Record Carriers	88802
+G06M	Counting Mechanisms; Counting Of Objects Not Otherwise Provided For 	311
+G06N	Computer Systems Based On Specific Computational Models	28993
+G06Q	"Data Processing Systems Or Methods, Specially Adapted For Administrative, Commercial, Financial, Managerial, Supervisory Or Forecasting Purposes; Systems Or Methods Specially Adapted For Administrative, Commercial, Financial, Managerial, Supervisory Or Forecasting Purposes, Not Otherwise Provided For"	129640
+G06T	"Image Data Processing Or Generation, In General"	90672
+G07B	Ticket-Issuing Apparatus; Fare-Registering Apparatus; Franking Apparatus	2036
+G07C	"Time Or Attendance Registers; Registering Or Indicating The Working Of Machines; Generating Random Numbers; Voting Or Lottery Apparatus; Arrangements, Systems Or Apparatus For Checking Not Provided For Elsewhere "	15355
+G07D	Handling Of Coins Or Valuable Papers	3295
+G07F	Coin-Freed Or Like Apparatus 	22920
+G07G	"Registering The Receipt Of Cash, Valuables, Or Tokens "	2416
+G08B	Signalling Or Calling Systems; Order Telegraphs; Alarm Systems {	22267
+G08C	"Transmission Systems For Measured Values, Control Or Similar Signals "	5997
+G08G	Traffic Control Systems 	19064
+G09B	"Educational Or Demonstration Appliances; Appliances For Teaching, Or Communicating With, The Blind, Deaf Or Mute; Models; Planetaria; Globes; Maps; Diagrams "	11727
+G09C	Coding Or Ciphering Apparatus For Cryptographic Or Other Purposes Involving The Need For Secrecy 	1466
+G09D	Railway Or Like Time Or Fare Tables; Perpetual Calendars 	27
+G09F	Displaying; Advertising; Signs; Labels Or Name-Plates; Seals	9362
+G09G	Arrangements Or Circuits For Control Of Indicating Devices Using Static Means To Present Variable Information 	51069
+G10B	"Organs, Harmoniums Or Similar Wind Musical Instruments With Associated Blowing Apparatus "	34
+G10C	"Pianos, Harpsichords, Spinets Or Similar Stringed Musical Instruments With One Or More Keyboards "	303
+G10D	Stringed Musical Instruments; Wind Musical Instruments; Accordions Or Concertinas; Percussion Musical Instruments; Aeolian Harps; Singing-Flame Musical Instruments; Musical Instruments Not Otherwise Provided For 	2166
+G10F	Automatic Musical Instruments 	113
+G10G	Aids For Music 	692
+G10H	Electrophonic Musical Instruments 	4195
+G10K	Sound-Producing Devices 	5550
+G10L	Speech Analysis Or Synthesis; Speech Recognition; Speech Or Voice Processing; Speech Or Audio Coding Or Decoding	26725
+G11B	Information Storage Based On Relative Movement Between Record Carrier And Transducer 	37219
+G11C	Static Stores 	64288
+G12B	"Constructional Details Of Instruments, Or Comparable Details Of Other Apparatus, Not Otherwise Provided For"	101
+G16B	"Bioinformatics, I.E. Information And Communication Technology [Ict] Specially Adapted For Genetic Or Protein-Related Data Processing In Computational Molecular Biology"	4125
+G16C	Computational Chemistry; Chemoinformatics; Computational Materials Science	1075
+G16H	"Healthcare Informatics, I.E. Information And Communication Technology [Ict] Specially Adapted For The Handling Or Processing Of Medical Or Healthcare Data"	29135
+G16Y	Information And Communication Technology Specially Adapted For The Internet Of Things [Iot]	116
+G16Z	"Information And Communication Technology [Ict] Specially Adapted For Specific Application Fields, Not Otherwise Provided For"	4082
+G21B	Fusion Reactors 	298
+G21C	Nuclear Reactors 	2372
+G21D	Nuclear Power Plant	628
+G21F	"Protection Against X-Radiation, Gamma Radiation, Corpuscular Radiation Or Particle Bombardment; Treating Radioactively Contaminated Material; Decontamination Arrangements Therefor "	1503
+G21G	Conversion Of Chemical Elements; Radioactive Sources 	476
+G21H	"Obtaining Energy From Radioactive Sources; Applications Of Radiation From Radioactive Sources, Not Otherwise Provided For; Utilising Cosmic Radiation "	165
+G21J	Nuclear Explosives; Applications Thereof 	5
+G21K	Techniques For Handling Particles Or Ionising Radiation Not Otherwise Provided For; Irradiation Devices; Gamma Ray Or X-Ray Microscopes	3167
+G21Y	"Indexing Scheme Relating To Nuclear Reactors, Power Plants And Explosives, To Protection Against Radiation, To The Treatment Of Radioactively Contaminated Material, To Applications Of Radioactive Sources And To The Utilisation Of Cosmic Radiation"	1
+H01B	"Cables; Conductors; Insulators; Selection Of Materials For Their Conductive, Insulating Or Dielectric Properties "	11479
+H01C	Resistors	2364
+H01F	Magnets; Inductances; Transformers; Selection Of Materials For Their Magnetic Properties 	18645
+H01G	"Capacitors; Capacitors, Rectifiers, Detectors, Switching Devices Or Light-Sensitive Devices, Of The Electrolytic Type "	11386
+H01H	Electric Switches; Relays; Selectors; Emergency Protective Devices 	16283
+H01J	Electric Discharge Tubes Or Discharge Lamps 	26694
+H01K	Electric Incandescent Lamps 	285
+H01L	Semiconductor Devices; Electric Solid State Devices Not Otherwise Provided For 	301116
+H01M	Processes Or Means	47811
+H01P	"Waveguides; Resonators, Lines, Or Other Devices Of The Waveguide Type "	7161
+H01Q	"Antennas, I.E. Radio Aerials "	25724
+H01R	Electrically-Conductive Connections; Structural Associations Of A Plurality Of Mutually-Insulated Electrical Connecting Elements; Coupling Devices; Current Collectors	37077
+H01S	Devices Using The Process Of Light Amplification By Stimulated Emission Of Radiation [Laser] To Amplify Or Generate Light; Devices Using Stimulated Emission Of Electromagnetic Radiation In Wave Ranges Other Than Optical	15484
+H01T	Spark Gaps; Overvoltage Arresters Using Spark Gaps; Sparking Plugs; Corona Devices; Generating Ions To Be Introduced Into Non-Enclosed Gases 	2192
+H02B	"Boards, Substations, Or Switching Arrangements For The Supply Or Distribution Of Electric Power "	2461
+H02G	"Installation Of Electric Cables Or Lines, Or Of Combined Optical And Electric Cables Or Lines "	10086
+H02H	Emergency Protective Circuit Arrangements 	8990
+H02J	Circuit Arrangements Or Systems For Supplying Or Distributing Electric Power; Systems For Storing Electric Energy	38098
+H02K	Dynamo-Electric Machines 	22953
+H02M	"Apparatus For Conversion Between Ac And Ac, Between Ac And Dc, Or Between Dc And Dc, And For Use With Mains Or Similar Power Supply Systems; Conversion Of Dc Or Ac Input Power Into Surge Output Power; Control Or Regulation Thereof "	30917
+H02N	Electric Machines Not Otherwise Provided For	3519
+H02P	"Control Or Regulation Of Electric Motors, Electric Generators Or Dynamo-Electric Converters; Controlling Transformers, Reactors Or Choke Coils"	14286
+H02S	"Generation Of Electric Power By Conversion Of Infra-Red Radiation, Visible Light Or Ultraviolet Light"	4798
+H03B	"Generation Of Oscillations, Directly Or By Frequency-Changing, By Circuits Employing Active Elements Which Operate In A Non-Switching Manner; Generation Of Noise By Such Circuits "	3508
+H03C	Modulation 	939
+H03D	Demodulation Or Transference Of Modulation From One Carrier To Another 	2159
+H03F	Amplifiers 	16964
+H03G	Control Of Amplification 	6346
+H03H	Impedance Networks	12353
+H03J	Tuning Resonant Circuits; Selecting Resonant Circuits 	1371
+H03K	Pulse Technique 	33236
+H03L	"Automatic Control, Starting, Synchronisation, Or Stabilisation Of Generators Of Electronic Oscillations Or Pulses "	10131
+H03M	Coding; Decoding; Code Conversion In General 	23551
+H04B	Transmission	90947
+H04H	Broadcast Communication 	7714
+H04J	Multiplex Communication 	19056
+H04K	Secret Communication; Jamming Of Communication	1375
+H04L	Transmission Of Digital Information	330025
+H04M	Telephonic Communication 	59360
+H04N	Pictorial Communication	176421
+H04Q	Selecting 	12439
+H04R	"Loudspeakers, Microphones, Gramophone Pick-Ups Or Like Acoustic Electromechanical Transducers; Deaf-Aid Sets; Public Address Systems "	26933
+H04S	Stereophonic Systems 	5786
+H04T	Indexing Scheme Relating To Standards For Electric Communication Technique 	5
+H04W	Wireless Communication Networks 	186491
+H05B	Electric Heating; Electric Lighting Not Otherwise Provided For	32190
+H05C	"Electric Circuits Or Apparatus Specially Designed For Use In Equipment For Killing, Stunning, Or Guiding Living Beings "	106
+H05F	Static Electricity; Naturally-Occurring Electricity 	443
+H05G	X-Ray Technique 	2063
+H05H	Plasma Technique 	3749
+H05K	Printed Circuits; Casings Or Constructional Details Of Electric Apparatus; Manufacture Of Assemblages Of Electrical Components	60808
+H99Z	Subject Matter Not Otherwise Provided For In This Section	1
+Y02A	Technologies For Adaptation To Climate Change	24255
+Y02B	"Climate Change Mitigation Technologies Related To Buildings, E.G. Housing, House Appliances Or Related End-User Applications"	33081
+Y02C	"Capture, Storage, Sequestration Or Disposal Of Greenhouse Gases [Ghg]"	3660
+Y02D	"Climate Change Mitigation Technologies In Information And Communication Technologies [Ict], I.E. Information And Communication Technologies Aiming At The Reduction Of Their Own Energy Use"	36547
+Y02E	"Reduction Of Greenhouse Gas [Ghg] Emissions, Related To Energy Generation, Transmission Or Distribution"	99939
+Y02P	Climate Change Mitigation Technologies In The Production Or Processing Of Goods	56482
+Y02T	Climate Change Mitigation Technologies Related To Transportation	71508
+Y02W	Climate Change Mitigation Technologies Related To Wastewater Treatment Or Waste Management	8367
+Y04S	"Systems Integrating Technologies Related To Power Network Operation, Communication Or Information Technologies For Improving The Electrical Power Generation, Transmission, Distribution, Management Or Usage, I.E. Smart Grids"	10566
+Y10S	Technical Subjects Covered By Former Uspc Cross-Reference Art Collections [Xracs] And Digests	85489
+Y10T	Technical Subjects Covered By Former Us Classification	210363
